@@ -1,0 +1,2 @@
+# EdgeAiHubTechPro
+Advanced EdgeAiHubTechPro project
